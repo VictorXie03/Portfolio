@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.69a92c8d.css",
+    "main.js": "/Portfolio/static/js/main.555fb3b4.js",
+    "static/media/ayodemo.png": "/Portfolio/static/media/ayodemo.5ca7cd0a33950ae54844.png",
+    "static/media/elektroniksdemo.png": "/Portfolio/static/media/elektroniksdemo.92945752a51d37560ed3.png",
+    "static/media/capidexdemo.png": "/Portfolio/static/media/capidexdemo.4120c97e00ffe7de1674.png",
+    "static/media/taskoredemo.png": "/Portfolio/static/media/taskoredemo.2cbb861d6388870481fb.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/wordledemo.png": "/Portfolio/static/media/wordledemo.f7513381d81cea029459.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/python.png": "/Portfolio/static/media/python.153c3ce0798c3f00c75b.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.029d08f125b8180341b1.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.69a92c8d.css.map": "/Portfolio/static/css/main.69a92c8d.css.map",
+    "main.555fb3b4.js.map": "/Portfolio/static/js/main.555fb3b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a92c8d.css",
+    "static/js/main.555fb3b4.js"
+  ]
+}
