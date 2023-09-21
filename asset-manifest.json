@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.69a92c8d.css",
-    "main.js": "/Portfolio/static/js/main.555fb3b4.js",
+    "main.js": "/Portfolio/static/js/main.5ead4364.js",
     "static/media/ayodemo.png": "/Portfolio/static/media/ayodemo.5ca7cd0a33950ae54844.png",
     "static/media/elektroniksdemo.png": "/Portfolio/static/media/elektroniksdemo.92945752a51d37560ed3.png",
     "static/media/capidexdemo.png": "/Portfolio/static/media/capidexdemo.4120c97e00ffe7de1674.png",
@@ -18,10 +18,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.69a92c8d.css.map": "/Portfolio/static/css/main.69a92c8d.css.map",
-    "main.555fb3b4.js.map": "/Portfolio/static/js/main.555fb3b4.js.map"
+    "main.5ead4364.js.map": "/Portfolio/static/js/main.5ead4364.js.map"
   },
   "entrypoints": [
     "static/css/main.69a92c8d.css",
-    "static/js/main.555fb3b4.js"
+    "static/js/main.5ead4364.js"
   ]
 }
